@@ -1,4 +1,3 @@
-```bash
 #!/data/data/com.termux/files/usr/bin/bash
 # Скрипт остановки
 
@@ -17,4 +16,3 @@ if pgrep -f "python.*hunter" > /dev/null; then
 fi
 
 echo "✅ Avito Hunter остановлен"
-```
