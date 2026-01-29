@@ -1,4 +1,3 @@
-```bash
 #!/data/data/com.termux/files/usr/bin/bash
 # Скрипт запуска
 
@@ -9,4 +8,3 @@ echo "Нажмите Ctrl+C для остановки"
 echo ""
 
 python hunter.py
-```
